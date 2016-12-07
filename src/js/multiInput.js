@@ -2,8 +2,10 @@ define([
     'require',
     'dependency'
 ], function(require, $) {
-    // var jQuery = require('');
     'use strict';
-    // var
+    (function($) {
+        var select3 = $.fn.extend({
 
+        });
+    })(jQuery);
 });
